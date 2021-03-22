@@ -4,6 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@celebriniguilherme-A53799?style=flat-square&labelColor=A53799&logo=instagram&logoColor=white&link=https://www.instagram.com/celebriniguilherme/)](https://www.instagram.com/celebriniguilherme/)
 
 Sou um estudante de Sistemas de Informação, atualmente estou cursando o 5º período.
+
 Sou um entusiasta de Desenvolvimento Mobile e estudo **Android** e **Java** há pouco menos de um ano, com pretensões de aprender **Kotlin** 📱
 ### Algumas informações
 - 📍 Moro em uma cidade do interior do RJ
