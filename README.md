@@ -5,7 +5,7 @@
 
 Sou um estudante de Sistemas de Informação, atualmente estou cursando o 6º período.
 
-Sou um entusiasta de Desenvolvimento Mobile e estudo **Android** e **Java** há pouco mais de um ano, com pretensões de aprender **Kotlin** 📱
+Sou um entusiasta de Desenvolvimento Mobile e estudo **Android** e **Java** há pouco mais de um ano, recentemente comecei a estudar Kotlin 📱
 ### Algumas informações
 - 📍 Moro em uma cidade do interior do RJ
 - 🎓 Estudante da UniRedentor - Itaperuna | RJ
